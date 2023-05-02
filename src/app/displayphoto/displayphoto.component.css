@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100%;
+    align-items: center;
+}
+
+.img-button{
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+.img{
+    width: 500px;
+}
